@@ -85,23 +85,6 @@
 
 - Google Colab
 - Jupyter Notebook
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ekshitha86&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ekshitha86&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekshitha86&layout=compact&theme=tokyonight"/>
-
-</p>
-
 ---
 # 📫 Connect With Me
 
