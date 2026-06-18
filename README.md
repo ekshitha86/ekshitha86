@@ -1,109 +1,90 @@
-````md
 <div align="center">
 
-# 👋 Hey, I'm **Ekshitha Derangula**
+# 👋 Hi, I'm Ekshitha Derangula
 
-### 🟥 AI Engineer • Machine Learning • Computer Vision • Generative AI
+### AI/ML Enthusiast • Computer Vision Developer • Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Building+Intelligent+AI+Solutions;Machine+Learning+Engineer;Computer+Vision+Developer;Generative+AI+Explorer;Always+Learning+Always+Building"/>
+<p>
+  <a href="https://www.linkedin.com/in/ekshithaderangula">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ekshitha86">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-<br>
-
-<img src="https://media.tenor.com/fbP7A8l2sXsAAAAC/sung-jinwoo-solo-leveling.gif" width="420"/>
-
-<br><br>
-
-<a href="https://github.com/ekshitha86">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=red"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ekshithaderangula">
-<img src="https://img.shields.io/badge/LinkedIn-B00020?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=ekshitha86&style=for-the-badge&color=red"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications;Machine+Learning+%7C+Computer+Vision;Generative+AI+Explorer;Always+Learning+Something+New"/>
 
 </div>
 
 ---
 
-# 🧠 About Me
+# 🚀 About Me
 
-```yaml
-Name: Ekshitha Derangula
+🎓 **B.Tech in Computer Science & Engineering (AI-ML)**  
+📍 Keshav Memorial College of Engineering
 
-Education:
-  B.Tech CSE (AI-ML)
+💼 **AIESEC Intern**
 
-College:
-  Keshav Memorial College of Engineering
+🧠 Passionate about Artificial Intelligence, Machine Learning, Computer Vision, and Generative AI.
 
-Role:
-  AI/ML Student
+🌱 **Currently Learning**
+- Large Language Models (LLMs)
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+- MLOps
 
-Experience:
-  AIESEC Intern
+🎯 **Mission**
 
-Current Focus:
-  - Machine Learning
-  - Computer Vision
-  - Generative AI
-  - Deep Learning
-
-Mission:
-  Build AI-powered applications that solve real-world problems.
-```
+> Building intelligent AI solutions that solve real-world problems.
 
 ---
 
-# ⚔ Tech Stack
+# 🛠 Tech Stack
 
-### 💻 Languages
+## 💻 Programming Languages
 
-<p align="center">
-
+<p>
 <img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,mysql"/>
-
 </p>
 
 ---
 
-### 🤖 AI & Machine Learning
+## 🤖 AI & Machine Learning
 
-- 🧠 Machine Learning
-- 👁 Computer Vision
-- 🤖 Deep Learning
-- 🚀 Generative AI
-- 💬 Prompt Engineering
-- ⚡ Groq API Integration
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Neural Networks
+- Image Classification
+- Generative AI
+- Prompt Engineering
+- Groq API Integration
 
 ---
 
-### 📚 Frameworks & Libraries
+## 📚 Frameworks & Libraries
 
-<p align="center">
-
+<p>
 <img src="https://skillicons.dev/icons?i=flask,streamlit"/>
-
 </p>
 
 - NumPy
 - Pandas
 - OpenCV
-- Scikit-learn
 - Matplotlib
+- Scikit-learn
 
 ---
 
-### 🛠 Developer Tools
+## ☁️ Tools & Platforms
 
-<p align="center">
-
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/>
-
 </p>
 
-Google Colab • Jupyter Notebook
+- Google Colab
+- Jupyter Notebook
 
 ---
 
@@ -111,15 +92,17 @@ Google Colab • Jupyter Notebook
 
 ## 🥗 NutraVision AI
 
-> AI-powered Nutrition Analysis Platform
+AI-powered nutrition analysis platform built using Machine Learning and Computer Vision.
 
-✔ Custom-trained food image dataset
+### Highlights
+- 🧠 Custom-trained food image classification model
+- 🤖 Groq-powered AI chatbot
+- 📷 Real-time food image prediction
+- ⚡ Interactive Streamlit application
 
-✔ Machine Learning prediction
+**Tech Stack**
 
-✔ Groq-powered AI Chatbot
-
-✔ Streamlit Deployment
+`Python` • `Machine Learning` • `Computer Vision` • `Streamlit` • `Groq API`
 
 🌐 **Live Demo**
 
@@ -129,15 +112,16 @@ https://nutravisionai.streamlit.app/
 
 ## 😊 EmotionSense AI
 
-> Emotion Recognition using Computer Vision
+Emotion recognition application using Machine Learning and Computer Vision.
 
-✔ Facial Emotion Detection
+### Highlights
+- Facial emotion detection
+- Intelligent emotion recognition
+- Real-time predictions
 
-✔ Machine Learning
+**Tech Stack**
 
-✔ OpenCV
-
-✔ Real-time Prediction
+`Python` • `Machine Learning` • `OpenCV`
 
 ---
 
@@ -145,63 +129,51 @@ https://nutravisionai.streamlit.app/
 
 ## 🌍 AIESEC Intern
 
-- Leadership Development
-- Team Collaboration
-- Communication
-- Project Coordination
+- Collaborating with cross-functional teams.
+- Participating in leadership development initiatives.
+- Strengthening communication, teamwork, and project management skills.
 
 ---
 
 # 🏆 Leadership
 
 ### Management Lead
-
-**Technical Club – Keshav Memorial College of Engineering**
+**Technical Club — Keshav Memorial College of Engineering**
 
 - Led visual design initiatives.
-- Managed event creatives.
+- Managed event creatives and promotional materials.
 - Coordinated technical and creative teams.
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ekshitha86&show_icons=true&theme=radical"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ekshitha86&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ekshitha86&theme=radical"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ekshitha86&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekshitha86&layout=compact&theme=radical"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ekshitha86&theme=radical&no-frame=true&row=1&column=6"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekshitha86&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# 📫 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/ekshithaderangula">
-<img src="https://img.shields.io/badge/LinkedIn-Red?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ekshitha86">
-<img src="https://img.shields.io/badge/GitHub-Black?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -210,9 +182,8 @@ https://nutravisionai.streamlit.app/
 
 <div align="center">
 
-## ❤️ Code • Learn • Build • Repeat
+### 💙 "Code. Learn. Build. Repeat."
 
-*"The future belongs to those who build it."*
+⭐ Thanks for visiting my profile!
 
 </div>
-````
