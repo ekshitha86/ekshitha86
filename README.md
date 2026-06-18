@@ -1,19 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Ekshitha Derangula
-# 📫 Connect With Me
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/ekshithaderangula">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ekshitha86">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-</p>
 ### AI/ML Enthusiast • Computer Vision Developer • Software Engineer
 
 <p>
@@ -163,7 +151,20 @@ Emotion recognition application using Machine Learning and Computer Vision.
 </p>
 
 ---
+# 📫 Connect With Me
 
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ekshithaderangula">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ekshitha86">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</p>
+---
 <div align="center">
 
 ### 💙 "Code. Learn. Build. Repeat."
