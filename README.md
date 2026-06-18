@@ -1,7 +1,19 @@
 <div align="center">
 
 # 👋 Hi, I'm Ekshitha Derangula
+# 📫 Connect With Me
 
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ekshithaderangula">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ekshitha86">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</p>
 ### AI/ML Enthusiast • Computer Vision Developer • Software Engineer
 
 <p>
@@ -88,18 +100,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-## 🥗 NutraVision AI
-
-AI-powered nutrition analysis platform built using Machine Learning and Computer Vision.
-
-### Highlights
-- 🧠 Custom-trained food image classification model
-- 🤖 Groq-powered AI chatbot
-- 📷 Real-time food image prediction
-- ⚡ Interactive Streamlit application
-
 **Tech Stack**
 
 `Python` • `Machine Learning` • `Computer Vision` • `Streamlit` • `Groq API`
@@ -159,22 +159,6 @@ Emotion recognition application using Machine Learning and Computer Vision.
 <p align="center">
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekshitha86&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/ekshithaderangula">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ekshitha86">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
 
 </p>
 
