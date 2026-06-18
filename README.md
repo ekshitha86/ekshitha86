@@ -5,11 +5,11 @@
 
 ### 🟥 AI Engineer • Machine Learning • Computer Vision • Generative AI
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems...;Machine+Learning+Engineer.;Computer+Vision+Developer.;Generative+AI+Explorer.;Always+Learning+Always+Building."/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Building+Intelligent+AI+Solutions;Machine+Learning+Engineer;Computer+Vision+Developer;Generative+AI+Explorer;Always+Learning+Always+Building"/>
 
 <br>
 
-<img src="https://media.tenor.com/DimzPZMypFcAAAAd/matrix-code.gif" width="800"/>
+<img src="https://media.tenor.com/fbP7A8l2sXsAAAAC/sung-jinwoo-solo-leveling.gif" width="420"/>
 
 <br><br>
 
@@ -25,16 +25,12 @@
 
 </div>
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212744275-bdc8d0d4-7e2f-4b1d-bb7d-fd4b3c4d6b35.gif" width="100%">
-</p>
+---
 
-# 🟥 SYSTEM STATUS
+# 🧠 About Me
 
 ```yaml
 Name: Ekshitha Derangula
-
-Role: AI / Machine Learning Developer
 
 Education:
   B.Tech CSE (AI-ML)
@@ -42,34 +38,37 @@ Education:
 College:
   Keshav Memorial College of Engineering
 
+Role:
+  AI/ML Student
+
 Experience:
   AIESEC Intern
 
-Location:
-  Hyderabad, India
-
-Current Status:
-  Learning • Building • Deploying
+Current Focus:
+  - Machine Learning
+  - Computer Vision
+  - Generative AI
+  - Deep Learning
 
 Mission:
-  Build intelligent systems that solve real-world problems.
+  Build AI-powered applications that solve real-world problems.
 ```
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212744275-bdc8d0d4-7e2f-4b1d-bb7d-fd4b3c4d6b35.gif" width="100%">
-</p>
+---
 
-# ⚔ TECH ARSENAL
+# ⚔ Tech Stack
 
-## 💻 Programming Languages
+### 💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,mysql"/>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,mysql"/>
+
 </p>
 
 ---
 
-## 🤖 Artificial Intelligence
+### 🤖 AI & Machine Learning
 
 - 🧠 Machine Learning
 - 👁 Computer Vision
@@ -80,53 +79,47 @@ Mission:
 
 ---
 
-## 📚 Frameworks & Libraries
+### 📚 Frameworks & Libraries
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=flask,streamlit"/>
+
 </p>
 
 - NumPy
 - Pandas
 - OpenCV
-- Matplotlib
 - Scikit-learn
+- Matplotlib
 
 ---
 
-## 🛠 Developer Tools
+### 🛠 Developer Tools
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/>
+
 </p>
 
 Google Colab • Jupyter Notebook
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212744275-bdc8d0d4-7e2f-4b1d-bb7d-fd4b3c4d6b35.gif" width="100%">
-</p>
+---
 
-# 🚀 FEATURED PROJECTS
-
-<p align="center">
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="450"/>
-</p>
+# 🚀 Featured Projects
 
 ## 🥗 NutraVision AI
 
-> AI-powered nutrition analysis platform built using Machine Learning and Computer Vision.
+> AI-powered Nutrition Analysis Platform
 
-✅ Custom-trained Food Image Dataset
+✔ Custom-trained food image dataset
 
-✅ Groq-powered AI Chatbot
+✔ Machine Learning prediction
 
-✅ Real-time Food Image Prediction
+✔ Groq-powered AI Chatbot
 
-✅ Streamlit Deployment
-
-**Tech Stack**
-
-`Python` • `Machine Learning` • `Computer Vision` • `Streamlit` • `Groq API`
+✔ Streamlit Deployment
 
 🌐 **Live Demo**
 
@@ -136,43 +129,42 @@ https://nutravisionai.streamlit.app/
 
 ## 😊 EmotionSense AI
 
-Emotion Recognition System using Computer Vision.
+> Emotion Recognition using Computer Vision
 
-- Facial Emotion Detection
-- Machine Learning
-- OpenCV
-- Real-time Prediction
+✔ Facial Emotion Detection
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212744275-bdc8d0d4-7e2f-4b1d-bb7d-fd4b3c4d6b35.gif" width="100%">
-</p>
+✔ Machine Learning
 
-# 💼 EXPERIENCE
+✔ OpenCV
+
+✔ Real-time Prediction
+
+---
+
+# 💼 Experience
 
 ## 🌍 AIESEC Intern
 
 - Leadership Development
 - Team Collaboration
+- Communication
 - Project Coordination
-- Professional Communication
 
 ---
 
-# 🏆 LEADERSHIP
+# 🏆 Leadership
 
 ### Management Lead
 
-**Technical Club — Keshav Memorial College of Engineering**
+**Technical Club – Keshav Memorial College of Engineering**
 
-- Managed event branding and promotional creatives.
 - Led visual design initiatives.
-- Coordinated with technical and creative teams.
+- Managed event creatives.
+- Coordinated technical and creative teams.
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212744275-bdc8d0d4-7e2f-4b1d-bb7d-fd4b3c4d6b35.gif" width="100%">
-</p>
+---
 
-# 📊 GITHUB ANALYTICS
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -190,7 +182,17 @@ Emotion Recognition System using Computer Vision.
 
 ---
 
-# 🌐 CONNECT WITH ME
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ekshitha86&theme=radical&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -204,37 +206,13 @@ Emotion Recognition System using Computer Vision.
 
 </p>
 
-<p align="center">
+---
 
-```text
-██████████████████████████████
+<div align="center">
 
-      SYSTEM STATUS : ONLINE
+## ❤️ Code • Learn • Build • Repeat
 
-      AI CORE : ACTIVE
+*"The future belongs to those who build it."*
 
-      BUILD • LEARN • DEPLOY
-
-██████████████████████████████
-```
-
-### ⭐ *"Every intelligent system starts with a single line of code."*
-
-</p>
+</div>
 ````
-
-
-<!--
-**ekshitha86/ekshitha86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
