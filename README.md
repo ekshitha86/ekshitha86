@@ -1,7 +1,8 @@
 
-# 🚀 Premium AI GitHub README Starter
+# Hello 👋, I'm Ekshitha Derangula
 
-> **This is a starter template for an advanced GitHub profile.** Replace placeholders as needed.
+
+> 
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Ekshitha%20Derangula&fontAlignY=35&fontSize=48&animation=fadeIn&color=gradient"/>
