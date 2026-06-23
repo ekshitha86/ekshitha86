@@ -31,24 +31,11 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,tailwind,flask,fastapi,pytorch,tensorflow,opencv,docker,linux,git,github,mysql,firebase,supabase,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,tailwind,flask
+  ,fastapi,pytorch,tensorflow,opencv,docker,linux,git,github,mysql,firebase,supabase,vscode"/>
 </p>
 
 ---
-
-# 🚀 Featured Projects
-
-## 🧠 Deepfake Detection
-Vision Transformer + PyTorch + OpenCV
-
-## 📈 Investment Navigator
-AI-powered investment education platform.
-
-## 🤖 AI Experiments
-LLMs • RAG • AI Agents • Prompt Engineering
-
----
-
 # 📊 Analytics
 
 <p align="center">
