@@ -22,7 +22,11 @@
 
 # 🧠 About
 
-Building AI solutions across Computer Vision, Deep Learning, LLMs, AI Agents and Generative AI.
+- 🎓 B.Tech CSE (AI-ML), Keshav Memorial College of Engineering
+- 💡 Passionate about AI, Machine Learning & Software Development & solving Real world problem
+- 💼 AIESEC Intern
+- 🧠 Interested in AI, Computer Vision, LLMs, AI Agents and Generative AI.
+- 📊 Interested in AI, Data Visualization & Problem Solving
 
 ## ⚡ Tech Stack
 
