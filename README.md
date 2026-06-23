@@ -1,64 +1,50 @@
-# Hi 👋, I'm Ekshitha Derangula
+
+# 🚀 Premium AI GitHub README Starter
+
+> **This is a starter template for an advanced GitHub profile.** Replace placeholders as needed.
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ekshitha%20Derangula&fontAlign=50&fontAlignY=38&color=0:6C63FF,100:1E1B4B&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Ekshitha%20Derangula&fontAlignY=35&fontSize=48&animation=fadeIn&color=gradient"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&color=7F5AF0&lines=AI%2FML+Engineer;Computer+Vision+Developer;Software+Engineer;Building+Intelligent+Solutions"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=AI%2FML+Engineer;Computer+Vision+Developer;Generative+AI+Explorer;Building+Intelligent+Systems"/>
 </p>
 
 <p align="center">
 <a href="https://github.com/ekshitha86"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
 <a href="https://www.linkedin.com/in/ekshithaderangula"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-
+<img src="https://komarev.com/ghpvc/?username=ekshitha86&style=for-the-badge&color=blueviolet"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🧠 About
 
-- 🎓 B.Tech CSE (AI-ML), Keshav Memorial College of Engineering
-- 💼 AIESEC Intern
-- 🧠 Interested in AI, Computer Vision, LLMs, AI Agents and Generative AI.
-- 🌍 Passionate about building AI that solves real-world problems.
+Building AI solutions across Computer Vision, Deep Learning, LLMs, AI Agents and Generative AI.
 
-## 🌱 Current Focus
+## ⚡ Tech Stack
 
-- Large Language Models
-- AI Agents
-- Retrieval-Augmented Generation
-- MLOps
-- FastAPI
-- LangChain
-- Vector Databases
-
-## 🛠 Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css,react,tailwind,flask,fastapi,pytorch,tensorflow,opencv,mysql,firebase,supabase,git,github,docker,linux,vscode"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,tailwind,flask,fastapi,pytorch,tensorflow,opencv,docker,linux,git,github,mysql,firebase,supabase,vscode"/>
 </p>
-
-## 🚀 Featured Projects
-
-### 🧠 Deepfake Detection
-Vision Transformer based deepfake detection using PyTorch and OpenCV.
-
-### 📈 Investment Navigator
-AI-powered investment education platform helping beginners understand investing.
-
-### 🤖 AI Experiments
-LLMs • Prompt Engineering • AI Agents • Generative AI
-
-### 💡 Future Vision
-- AI Assistant
-- Medical AI
-- AI Resume Analyzer
-- Autonomous AI Agent
 
 ---
 
-## 📊 GitHub Analytics
+# 🚀 Featured Projects
+
+## 🧠 Deepfake Detection
+Vision Transformer + PyTorch + OpenCV
+
+## 📈 Investment Navigator
+AI-powered investment education platform.
+
+## 🤖 AI Experiments
+LLMs • RAG • AI Agents • Prompt Engineering
+
+---
+
+# 📊 Analytics
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ekshitha86&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -74,27 +60,15 @@ LLMs • Prompt Engineering • AI Agents • Generative AI
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ekshitha86&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ekshitha86&theme=tokyonight&no-frame=true"/>
 </p>
-
-## 🏅 Highlights
-
-- 🤖 AI & ML
-- 👁️ Computer Vision
-- 🌐 Open Source Learner
-- 💼 AIESEC Leadership
-- 📚 Continuous Learning
-
-## 📫 Connect
-
-- GitHub: https://github.com/ekshitha86
-- LinkedIn: https://www.linkedin.com/in/ekshithaderangula
-- Portfolio: Coming Soon
 
 ---
 
-> *"The future belongs to those who don't just use AI—they build it."*
+# 💡 Quote
+
+> *"The future belongs to those who build intelligence, not just consume it."*
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:1E1B4B,100:6C63FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=gradient"/>
 </p>
