@@ -11,7 +11,7 @@
 <p align="center">
 <a href="https://github.com/ekshitha86"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
 <a href="https://www.linkedin.com/in/ekshithaderangula"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<img src="https://komarev.com/ghpvc/?username=ekshitha86&style=for-the-badge&color=6C63FF"/>
+
 </p>
 
 ---
