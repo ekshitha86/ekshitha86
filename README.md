@@ -1,109 +1,100 @@
-<div align="center">
-
-# 👋 Hi, I'm Ekshitha Derangula
-
-### AI/ML Enthusiast • Computer Vision Developer • Software Engineer
-
-<p>
-  <a href="https://www.linkedin.com/in/ekshithaderangula">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/ekshitha86">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications;Machine+Learning+%7C+Computer+Vision;Generative+AI+Explorer;Always+Learning+Something+New"/>
-
-</div>
-
----
-
-# 🚀 About Me
-
-🎓 **B.Tech in Computer Science & Engineering (AI-ML)**  
-📍 Keshav Memorial College of Engineering
-
-💼 **AIESEC Intern**
-
-🧠 Passionate about Artificial Intelligence, Machine Learning, Computer Vision, and Generative AI.
-
-🌱 **Currently Learning**
-- Large Language Models (LLMs)
-- AI Agents
-- Retrieval-Augmented Generation (RAG)
-- MLOps
-
-🎯 **Mission**
-
-> Building intelligent AI solutions that solve real-world problems.
-
----
-
-# 🛠 Tech Stack
-
-## 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,mysql"/>
-</p>
-
----
-
-## 🤖 AI & Machine Learning
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Neural Networks
-- Image Classification
-- Generative AI
-- Prompt Engineering
-- Groq API Integration
-
----
-
-## 📚 Frameworks & Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask,streamlit"/>
-</p>
-
-- NumPy
-- Pandas
-- OpenCV
-- Matplotlib
-- Scikit-learn
-
----
-
-## ☁️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/>
-</p>
-
-- Google Colab
-- Jupyter Notebook
----
-# 📫 Connect With Me
+# Hi 👋, I'm Ekshitha Derangula
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/ekshithaderangula">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ekshitha86">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ekshitha%20Derangula&fontAlign=50&fontAlignY=38&color=0:6C63FF,100:1E1B4B&fontColor=ffffff"/>
 </p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&color=7F5AF0&lines=AI%2FML+Engineer;Computer+Vision+Developer;Software+Engineer;AIESEC+Intern;Building+Intelligent+Solutions"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/ekshitha86"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/ekshithaderangula"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<img src="https://komarev.com/ghpvc/?username=ekshitha86&style=for-the-badge&color=6C63FF"/>
+</p>
+
 ---
-<div align="center">
 
-### 💙 "Code. Learn. Build. Repeat."
+## 🚀 About Me
 
-⭐ Thanks for visiting my profile!
+- 🎓 B.Tech CSE (AI-ML), Keshav Memorial College of Engineering
+- 💼 AIESEC Intern
+- 🧠 Interested in AI, Computer Vision, LLMs, AI Agents and Generative AI.
+- 🌍 Passionate about building AI that solves real-world problems.
 
-</div>
+## 🌱 Current Focus
+
+- Large Language Models
+- AI Agents
+- Retrieval-Augmented Generation
+- MLOps
+- FastAPI
+- LangChain
+- Vector Databases
+
+## 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css,react,tailwind,flask,fastapi,pytorch,tensorflow,opencv,mysql,firebase,supabase,git,github,docker,linux,vscode"/>
+</p>
+
+## 🚀 Featured Projects
+
+### 🧠 Deepfake Detection
+Vision Transformer based deepfake detection using PyTorch and OpenCV.
+
+### 📈 Investment Navigator
+AI-powered investment education platform helping beginners understand investing.
+
+### 🤖 AI Experiments
+LLMs • Prompt Engineering • AI Agents • Generative AI
+
+### 💡 Future Vision
+- AI Assistant
+- Medical AI
+- AI Resume Analyzer
+- Autonomous AI Agent
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ekshitha86&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekshitha86&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ekshitha86&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ekshitha86&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ekshitha86&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
+
+## 🏅 Highlights
+
+- 🤖 AI & ML
+- 👁️ Computer Vision
+- 🌐 Open Source Learner
+- 💼 AIESEC Leadership
+- 📚 Continuous Learning
+
+## 📫 Connect
+
+- GitHub: https://github.com/ekshitha86
+- LinkedIn: https://www.linkedin.com/in/ekshithaderangula
+- Portfolio: Coming Soon
+
+---
+
+> *"The future belongs to those who don't just use AI—they build it."*
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:1E1B4B,100:6C63FF"/>
+</p>
