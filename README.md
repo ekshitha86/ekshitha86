@@ -31,8 +31,7 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,tailwind,flask
-  ,fastapi,pytorch,tensorflow,opencv,docker,linux,git,github,mysql,firebase,supabase,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,tailwind,flask,fastapi,tensorflow,opencv,docker,git,github,mysql,supabase,vscode"/>
 </p>
 
 ---
